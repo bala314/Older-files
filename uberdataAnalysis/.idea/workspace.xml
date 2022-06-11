@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec6fb774-367c-438f-aa4b-2ba807f10f80" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1fAoicyPkOaqDtEcKTR4BgHnkJM" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/spark/testing/build.sbt" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MysqlConnection">
+    <configuration name="MysqlConnection" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MysqlConnection" />
+      <module name="uberdataAnalysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MysqlIntigration" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="MysqlIntigration" />
+      <module name="uberdataAnalysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="df_operations" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="df_operations" />
+      <module name="uberdataAnalysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uberDataAnalysis" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="uberDataAnalysis" />
+      <module name="uberdataAnalysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unidata" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="unidata" />
+      <module name="uberdataAnalysis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="buildprojectjar" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="package" />
+      <option name="useSbtShell" value="true" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.df_operations" />
+      <item itemvalue="Application.MysqlConnection" />
+      <item itemvalue="Application.MysqlIntigration" />
+      <item itemvalue="Application.uberDataAnalysis" />
+      <item itemvalue="Application.unidata" />
+      <item itemvalue="sbt Task.buildprojectjar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MysqlConnection" />
+        <item itemvalue="Application.unidata" />
+        <item itemvalue="Application.MysqlIntigration" />
+        <item itemvalue="Application.df_operations" />
+        <item itemvalue="Application.uberDataAnalysis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="uberdataAnalysis" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="uberdataanalysis [file:/D:/usecases/uberdataAnalysis/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="uberdataAnalysis-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3171357097182" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2426005528" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec6fb774-367c-438f-aa4b-2ba807f10f80" name="Default Changelist" comment="" />
+      <created>1595670386032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595670386032</updated>
+    </task>
+    <servers />
+  </component>
+</project>
